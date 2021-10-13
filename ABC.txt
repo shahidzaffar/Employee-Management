@@ -1,0 +1,23 @@
+l,3515,SZPasha,29,12.0,12.0,12
+s,3491,Amin,100,123.0,23.0,23
+l,3512,Sajid,29,12.0,12.0,12
+s,3518,Adil,100,123.0,23.0,23
+s,3514,Usman,100,123.0,23.0,23
+s,3489,Ali,100,123.0,23.0,23
+l,35119,shaheen,29,12.0,12.0,12
+s,35100,Pasha,100,123.0,23.0,23
+l,35111,Shahid,29,12.0,12.0,12
+s,35100,Adim,100,123.0,23.0,23
+l,  Id=3515
+ Name=Pasha
+ Age = 20
+Basic salary = 20000.0,23000.0,4 Id=3515
+ Name=Pasha
+ Age = 20
+Basic salary = 20000.0,23000.0, Id=3515
+ Name=Pasha
+ Age = 20
+Basic salary = 20000.0Id=3515
+ Name=Pasha
+ Age = 20
+Basic salary = 20000.0,23000.0,4
